@@ -46,12 +46,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anurag/fastly-object-storage.git"
+    "url": "git+https://github.com/padfoot044/fastly-object-storage.git"
   },
   "bugs": {
-    "url": "https://github.com/anurag/fastly-object-storage/issues"
+    "url": "https://github.com/padfoot044/fastly-object-storage/issues"
   },
-  "homepage": "https://github.com/anurag/fastly-object-storage#readme",
+  "homepage": "https://github.com/padfoot044/fastly-object-storage#readme",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "@types/node": "^20.10.6",
